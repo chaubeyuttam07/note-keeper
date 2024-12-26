@@ -41,8 +41,6 @@ npm i @hello-pangea/dnd
   <img src="https://github.com/TheNewC0der-24/Google-Keep-Clone/blob/master/Preview/Preview-4.png" width="400">
 </p>
 
-## PWA
-![image](https://github.com/TheNewC0der-24/Google-Keep-Clone/blob/master/PWA.png)
 
 ## Contributing
 
